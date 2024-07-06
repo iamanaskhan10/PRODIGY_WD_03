@@ -1,4 +1,4 @@
-# PRODIGY_WD_04 (Tic-Tac-Toe game)
+# PRODIGY_WD_03 (Tic-Tac-Toe game)
 This project is a web-based implementation of the classic Tic-Tac-Toe game, allowing users to play against each other or an AI opponent. Built using HTML, CSS, and JavaScript, the game provides a fun and interactive experience with a sleek and user-friendly interface.
 
 Key Features:
